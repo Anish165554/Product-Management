@@ -4,7 +4,7 @@ TO RUN ADMIN
 3."npm run dev"
 
 TO RUN BACKEND
-1.1.Open the backend folder in integrated terminal
+1.Open the backend folder in integrated terminal
 2."npm install"
 3."npm run server"
 
