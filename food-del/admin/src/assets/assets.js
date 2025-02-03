@@ -6,7 +6,7 @@ import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
 import home from './home.jpg'
 
-export const url = 'http://localhost:4000'
+export const url = 'https://product-management-backend-c5p5.onrender.com'
 export const currency = '₹'
 
 export const assets ={
